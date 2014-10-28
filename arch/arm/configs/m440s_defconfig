@@ -36,7 +36,7 @@ CONFIG_HAVE_IRQ_WORK=y
 #
 CONFIG_EXPERIMENTAL=y
 CONFIG_INIT_ENV_ARG_LIMIT=32
-CONFIG_CROSS_COMPILE="/home/yangjoo/kernel/toolchain/linaro_4.7.3-2013.04/bin/arm-linux-gnueabihf-"
+CONFIG_CROSS_COMPILE="linaro_4.7.3-2013.04/bin/arm-linux-gnueabihf-"
 CONFIG_LOCALVERSION="_Boeffla-Kernel-2.1-CM-10.2"
 # CONFIG_LOCALVERSION_AUTO is not set
 CONFIG_HAVE_KERNEL_GZIP=y
